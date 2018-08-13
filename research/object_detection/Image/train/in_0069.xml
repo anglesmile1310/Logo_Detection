@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sumary</folder>
+	<filename>in_0069.png</filename>
+	<path>/home/satou/Desktop/image/sumary/in_0069.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inbankText</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>347</ymin>
+			<xmax>1062</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

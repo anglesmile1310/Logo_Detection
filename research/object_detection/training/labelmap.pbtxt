@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'combankLogo'
+}
+
+item {
+  id: 2
+  name: 'inbankLogo'
+}
+
+item {
+  id: 3
+  name: 'airlineLogo'
+}
+
+item {
+  id: 0
+  name: 'None'
+}
+
+

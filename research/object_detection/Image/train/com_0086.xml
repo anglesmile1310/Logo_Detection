@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sumary</folder>
+	<filename>com_0086.jpg</filename>
+	<path>/home/satou/Desktop/image/sumary/com_0086.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>combankText</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>50</ymin>
+			<xmax>261</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sumary</folder>
+	<filename>airline_0148.jpg</filename>
+	<path>/home/satou/Desktop/image/sumary/airline_0148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airlineText</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>268</ymin>
+			<xmax>449</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
